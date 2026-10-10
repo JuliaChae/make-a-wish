@@ -1,0 +1,9 @@
+.git
+.agent
+.agents
+.codex
+node_modules
+.env
+.env.*
+*.log
+.DS_Store

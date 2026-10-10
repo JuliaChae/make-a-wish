@@ -1,0 +1,8 @@
+{
+  "name": "make-a-wish",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node serve.mjs"
+  }
+}
